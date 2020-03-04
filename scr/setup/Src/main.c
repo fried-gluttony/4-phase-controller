@@ -105,6 +105,8 @@ int main(void)
     HAL_Delay(10);
     HAL_GPIO_TogglePin(GPIOC, GPIO_PIN_10);
     HAL_Delay(20);
+    
+    
     /* USER CODE BEGIN 3 */
   }
   /* USER CODE END 3 */
@@ -210,16 +212,37 @@ static void MX_GPIO_Init(void)
   GPIO_InitStruct.Speed = GPIO_SPEED_FREQ_LOW;
   HAL_GPIO_Init(LD2_GPIO_Port, &GPIO_InitStruct);
 
-  /*Configure GPIO pin : LD2_Pin */
+  /*Configure GPIO pin : PC10 */
   GPIO_InitStruct.Pin = GPIO_PIN_10;
   GPIO_InitStruct.Mode = GPIO_MODE_OUTPUT_PP;
   GPIO_InitStruct.Pull = GPIO_NOPULL;
   GPIO_InitStruct.Speed = GPIO_SPEED_FREQ_HIGH;
   HAL_GPIO_Init(GPIOC, &GPIO_InitStruct);
 
+    /*Configure GPIO pin : PA05 adc */
+  GPIO_InitStruct.Pin = GPIO_PIN_5;
+  GPIO_InitStruct.Mode = GPIO_MODE_ANALOG;
+  GPIO_InitStruct.Pull = GPIO_NOPULL;
+  GPIO_InitStruct.Speed = GPIO_SPEED_FREQ_HIGH;
+  HAL_GPIO_Init(GPIOC, &GPIO_InitStruct);
+
+
+
+
   /* EXTI interrupt init*/
   HAL_NVIC_SetPriority(EXTI15_10_IRQn, 0, 0);
   HAL_NVIC_EnableIRQ(EXTI15_10_IRQn);
+
+}
+
+static void HAL_ADC_MspInit(void)
+{
+      /*Configure ADC*/
+  RCC_PeriphCLKInitTypeDef PeriphClkInit;
+  __ADC1_CLK_ENABLE();
+  PeriphClkInit.PeriphClockSelection = RCC_PERIPHCLK_ADC;
+  PeriphClkInit.AdcClockSelection = RCC_ADCPCLK2_DIV2;
+  HAL_RCCEx_PeriphCLKConfig(&PeriphClkInit);
 
 }
 
