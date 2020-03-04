@@ -27,89 +27,485 @@ $EndComp
 $Comp
 L Transistor_FET:BUZ11 Q?
 U 1 1 5E531284
-P 2300 1500
-F 0 "Q?" H 2505 1546 50  0000 L CNN
-F 1 "BUZ11" H 2505 1455 50  0000 L CNN
-F 2 "Package_TO_SOT_THT:TO-220-3_Vertical" H 2550 1425 50  0001 L CIN
-F 3 "http://www.fairchildsemi.com/ds/BU/BUZ11.pdf" H 2300 1500 50  0001 L CNN
-	1    2300 1500
+P 1350 1150
+F 0 "Q?" H 1555 1196 50  0000 L CNN
+F 1 "BUZ11" H 1555 1105 50  0000 L CNN
+F 2 "Package_TO_SOT_THT:TO-220-3_Vertical" H 1600 1075 50  0001 L CIN
+F 3 "http://www.fairchildsemi.com/ds/BU/BUZ11.pdf" H 1350 1150 50  0001 L CNN
+	1    1350 1150
 	1    0    0    -1  
 $EndComp
 $Comp
 L Transistor_FET:BUZ11 Q?
 U 1 1 5E534C9A
-P 2300 2050
-F 0 "Q?" H 2505 2096 50  0000 L CNN
-F 1 "BUZ11" H 2505 2005 50  0000 L CNN
-F 2 "Package_TO_SOT_THT:TO-220-3_Vertical" H 2550 1975 50  0001 L CIN
-F 3 "http://www.fairchildsemi.com/ds/BU/BUZ11.pdf" H 2300 2050 50  0001 L CNN
-	1    2300 2050
+P 1350 1700
+F 0 "Q?" H 1555 1746 50  0000 L CNN
+F 1 "BUZ11" H 1555 1655 50  0000 L CNN
+F 2 "Package_TO_SOT_THT:TO-220-3_Vertical" H 1600 1625 50  0001 L CIN
+F 3 "http://www.fairchildsemi.com/ds/BU/BUZ11.pdf" H 1350 1700 50  0001 L CNN
+	1    1350 1700
 	1    0    0    -1  
 $EndComp
 $Comp
 L Transistor_FET:BUZ11 Q?
 U 1 1 5E5355FF
-P 3700 1500
-F 0 "Q?" H 3905 1546 50  0000 L CNN
-F 1 "BUZ11" H 3905 1455 50  0000 L CNN
-F 2 "Package_TO_SOT_THT:TO-220-3_Vertical" H 3950 1425 50  0001 L CIN
-F 3 "http://www.fairchildsemi.com/ds/BU/BUZ11.pdf" H 3700 1500 50  0001 L CNN
-	1    3700 1500
+P 2750 1150
+F 0 "Q?" H 2955 1196 50  0000 L CNN
+F 1 "BUZ11" H 2955 1105 50  0000 L CNN
+F 2 "Package_TO_SOT_THT:TO-220-3_Vertical" H 3000 1075 50  0001 L CIN
+F 3 "http://www.fairchildsemi.com/ds/BU/BUZ11.pdf" H 2750 1150 50  0001 L CNN
+	1    2750 1150
 	1    0    0    -1  
 $EndComp
 $Comp
 L Transistor_FET:BUZ11 Q?
 U 1 1 5E535E0C
-P 3700 2050
-F 0 "Q?" H 3905 2096 50  0000 L CNN
-F 1 "BUZ11" H 3905 2005 50  0000 L CNN
-F 2 "Package_TO_SOT_THT:TO-220-3_Vertical" H 3950 1975 50  0001 L CIN
-F 3 "http://www.fairchildsemi.com/ds/BU/BUZ11.pdf" H 3700 2050 50  0001 L CNN
-	1    3700 2050
+P 2750 1700
+F 0 "Q?" H 2955 1746 50  0000 L CNN
+F 1 "BUZ11" H 2955 1655 50  0000 L CNN
+F 2 "Package_TO_SOT_THT:TO-220-3_Vertical" H 3000 1625 50  0001 L CIN
+F 3 "http://www.fairchildsemi.com/ds/BU/BUZ11.pdf" H 2750 1700 50  0001 L CNN
+	1    2750 1700
 	1    0    0    -1  
 $EndComp
 $Comp
 L Transistor_FET:BUZ11 Q?
 U 1 1 5E5367AB
-P 2300 2900
-F 0 "Q?" H 2505 2946 50  0000 L CNN
-F 1 "BUZ11" H 2505 2855 50  0000 L CNN
-F 2 "Package_TO_SOT_THT:TO-220-3_Vertical" H 2550 2825 50  0001 L CIN
-F 3 "http://www.fairchildsemi.com/ds/BU/BUZ11.pdf" H 2300 2900 50  0001 L CNN
-	1    2300 2900
+P 1350 2550
+F 0 "Q?" H 1555 2596 50  0000 L CNN
+F 1 "BUZ11" H 1555 2505 50  0000 L CNN
+F 2 "Package_TO_SOT_THT:TO-220-3_Vertical" H 1600 2475 50  0001 L CIN
+F 3 "http://www.fairchildsemi.com/ds/BU/BUZ11.pdf" H 1350 2550 50  0001 L CNN
+	1    1350 2550
 	1    0    0    -1  
 $EndComp
 $Comp
 L Transistor_FET:BUZ11 Q?
 U 1 1 5E536F03
-P 2300 3450
-F 0 "Q?" H 2505 3496 50  0000 L CNN
-F 1 "BUZ11" H 2505 3405 50  0000 L CNN
-F 2 "Package_TO_SOT_THT:TO-220-3_Vertical" H 2550 3375 50  0001 L CIN
-F 3 "http://www.fairchildsemi.com/ds/BU/BUZ11.pdf" H 2300 3450 50  0001 L CNN
-	1    2300 3450
+P 1350 3100
+F 0 "Q?" H 1555 3146 50  0000 L CNN
+F 1 "BUZ11" H 1555 3055 50  0000 L CNN
+F 2 "Package_TO_SOT_THT:TO-220-3_Vertical" H 1600 3025 50  0001 L CIN
+F 3 "http://www.fairchildsemi.com/ds/BU/BUZ11.pdf" H 1350 3100 50  0001 L CNN
+	1    1350 3100
 	1    0    0    -1  
 $EndComp
 $Comp
 L Transistor_FET:BUZ11 Q?
 U 1 1 5E537BFA
-P 3700 2900
-F 0 "Q?" H 3905 2946 50  0000 L CNN
-F 1 "BUZ11" H 3905 2855 50  0000 L CNN
-F 2 "Package_TO_SOT_THT:TO-220-3_Vertical" H 3950 2825 50  0001 L CIN
-F 3 "http://www.fairchildsemi.com/ds/BU/BUZ11.pdf" H 3700 2900 50  0001 L CNN
-	1    3700 2900
+P 2750 2550
+F 0 "Q?" H 2955 2596 50  0000 L CNN
+F 1 "BUZ11" H 2955 2505 50  0000 L CNN
+F 2 "Package_TO_SOT_THT:TO-220-3_Vertical" H 3000 2475 50  0001 L CIN
+F 3 "http://www.fairchildsemi.com/ds/BU/BUZ11.pdf" H 2750 2550 50  0001 L CNN
+	1    2750 2550
 	1    0    0    -1  
 $EndComp
 $Comp
 L Transistor_FET:BUZ11 Q?
 U 1 1 5E5383BB
-P 3700 3450
-F 0 "Q?" H 3905 3496 50  0000 L CNN
-F 1 "BUZ11" H 3905 3405 50  0000 L CNN
-F 2 "Package_TO_SOT_THT:TO-220-3_Vertical" H 3950 3375 50  0001 L CIN
-F 3 "http://www.fairchildsemi.com/ds/BU/BUZ11.pdf" H 3700 3450 50  0001 L CNN
-	1    3700 3450
+P 2750 3100
+F 0 "Q?" H 2955 3146 50  0000 L CNN
+F 1 "BUZ11" H 2955 3055 50  0000 L CNN
+F 2 "Package_TO_SOT_THT:TO-220-3_Vertical" H 3000 3025 50  0001 L CIN
+F 3 "http://www.fairchildsemi.com/ds/BU/BUZ11.pdf" H 2750 3100 50  0001 L CNN
+	1    2750 3100
 	1    0    0    -1  
 $EndComp
+Wire Wire Line
+	1450 1350 1450 1400
+Wire Wire Line
+	1450 1400 1650 1400
+Connection ~ 1450 1400
+Wire Wire Line
+	1450 1400 1450 1500
+Wire Wire Line
+	1450 2750 1450 2800
+Wire Wire Line
+	1450 2800 1650 2800
+Connection ~ 1450 2800
+Wire Wire Line
+	1450 2800 1450 2900
+Wire Wire Line
+	2850 1350 2850 1400
+Wire Wire Line
+	2850 1400 3050 1400
+Connection ~ 2850 1400
+Wire Wire Line
+	2850 1400 2850 1500
+Wire Wire Line
+	2850 2750 2850 2800
+Wire Wire Line
+	2850 2800 3050 2800
+Connection ~ 2850 2800
+Wire Wire Line
+	2850 2800 2850 2900
+Text GLabel 1650 1400 2    50   Output ~ 0
+PhaseA
+Text GLabel 1650 2800 2    50   Output ~ 0
+PhaseC
+Text GLabel 3050 1400 2    50   Output ~ 0
+PhaseB
+Text GLabel 3050 2800 2    50   Output ~ 0
+PhaseD
+$Comp
+L Device:R R?
+U 1 1 5E606937
+P 1400 5150
+F 0 "R?" H 1470 5196 50  0000 L CNN
+F 1 "R" H 1470 5105 50  0000 L CNN
+F 2 "" V 1330 5150 50  0001 C CNN
+F 3 "~" H 1400 5150 50  0001 C CNN
+	1    1400 5150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 5E606EDB
+P 1400 5650
+F 0 "R?" H 1470 5696 50  0000 L CNN
+F 1 "R" H 1470 5605 50  0000 L CNN
+F 2 "" V 1330 5650 50  0001 C CNN
+F 3 "~" H 1400 5650 50  0001 C CNN
+	1    1400 5650
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 5E60779A
+P 1700 5400
+F 0 "R?" V 1493 5400 50  0000 C CNN
+F 1 "R" V 1584 5400 50  0000 C CNN
+F 2 "" V 1630 5400 50  0001 C CNN
+F 3 "~" H 1700 5400 50  0001 C CNN
+	1    1700 5400
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:C C?
+U 1 1 5E60E678
+P 2000 5650
+F 0 "C?" H 2115 5696 50  0000 L CNN
+F 1 "C" H 2115 5605 50  0000 L CNN
+F 2 "" H 2038 5500 50  0001 C CNN
+F 3 "~" H 2000 5650 50  0001 C CNN
+	1    2000 5650
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1400 5300 1400 5400
+Wire Wire Line
+	1400 5400 1550 5400
+Connection ~ 1400 5400
+Wire Wire Line
+	1400 5400 1400 5500
+Wire Wire Line
+	1850 5400 2000 5400
+Wire Wire Line
+	2000 5400 2000 5500
+$Comp
+L power:GND #PWR?
+U 1 1 5E60FE73
+P 1400 5900
+F 0 "#PWR?" H 1400 5650 50  0001 C CNN
+F 1 "GND" H 1405 5727 50  0000 C CNN
+F 2 "" H 1400 5900 50  0001 C CNN
+F 3 "" H 1400 5900 50  0001 C CNN
+	1    1400 5900
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1400 5800 1400 5900
+$Comp
+L power:GND #PWR?
+U 1 1 5E6108BC
+P 2000 5900
+F 0 "#PWR?" H 2000 5650 50  0001 C CNN
+F 1 "GND" H 2005 5727 50  0000 C CNN
+F 2 "" H 2000 5900 50  0001 C CNN
+F 3 "" H 2000 5900 50  0001 C CNN
+	1    2000 5900
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2000 5800 2000 5900
+Wire Wire Line
+	2000 5400 2200 5400
+Connection ~ 2000 5400
+Wire Wire Line
+	1400 5000 1400 4900
+$Comp
+L Device:R R?
+U 1 1 5E6156B8
+P 1400 6750
+F 0 "R?" H 1470 6796 50  0000 L CNN
+F 1 "R" H 1470 6705 50  0000 L CNN
+F 2 "" V 1330 6750 50  0001 C CNN
+F 3 "~" H 1400 6750 50  0001 C CNN
+	1    1400 6750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 5E6156BE
+P 1400 7250
+F 0 "R?" H 1470 7296 50  0000 L CNN
+F 1 "R" H 1470 7205 50  0000 L CNN
+F 2 "" V 1330 7250 50  0001 C CNN
+F 3 "~" H 1400 7250 50  0001 C CNN
+	1    1400 7250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 5E6156C4
+P 1700 7000
+F 0 "R?" V 1493 7000 50  0000 C CNN
+F 1 "R" V 1584 7000 50  0000 C CNN
+F 2 "" V 1630 7000 50  0001 C CNN
+F 3 "~" H 1700 7000 50  0001 C CNN
+	1    1700 7000
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:C C?
+U 1 1 5E6156CA
+P 2000 7250
+F 0 "C?" H 2115 7296 50  0000 L CNN
+F 1 "C" H 2115 7205 50  0000 L CNN
+F 2 "" H 2038 7100 50  0001 C CNN
+F 3 "~" H 2000 7250 50  0001 C CNN
+	1    2000 7250
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1400 6900 1400 7000
+Wire Wire Line
+	1400 7000 1550 7000
+Connection ~ 1400 7000
+Wire Wire Line
+	1400 7000 1400 7100
+Wire Wire Line
+	1850 7000 2000 7000
+Wire Wire Line
+	2000 7000 2000 7100
+$Comp
+L power:GND #PWR?
+U 1 1 5E6156D6
+P 1400 7500
+F 0 "#PWR?" H 1400 7250 50  0001 C CNN
+F 1 "GND" H 1405 7327 50  0000 C CNN
+F 2 "" H 1400 7500 50  0001 C CNN
+F 3 "" H 1400 7500 50  0001 C CNN
+	1    1400 7500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1400 7400 1400 7500
+$Comp
+L power:GND #PWR?
+U 1 1 5E6156DD
+P 2000 7500
+F 0 "#PWR?" H 2000 7250 50  0001 C CNN
+F 1 "GND" H 2005 7327 50  0000 C CNN
+F 2 "" H 2000 7500 50  0001 C CNN
+F 3 "" H 2000 7500 50  0001 C CNN
+	1    2000 7500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2000 7400 2000 7500
+Wire Wire Line
+	2000 7000 2200 7000
+Connection ~ 2000 7000
+Wire Wire Line
+	1400 6600 1400 6500
+$Comp
+L Device:R R?
+U 1 1 5E61774A
+P 2600 6750
+F 0 "R?" H 2670 6796 50  0000 L CNN
+F 1 "R" H 2670 6705 50  0000 L CNN
+F 2 "" V 2530 6750 50  0001 C CNN
+F 3 "~" H 2600 6750 50  0001 C CNN
+	1    2600 6750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 5E617750
+P 2600 7250
+F 0 "R?" H 2670 7296 50  0000 L CNN
+F 1 "R" H 2670 7205 50  0000 L CNN
+F 2 "" V 2530 7250 50  0001 C CNN
+F 3 "~" H 2600 7250 50  0001 C CNN
+	1    2600 7250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 5E617756
+P 2900 7000
+F 0 "R?" V 2693 7000 50  0000 C CNN
+F 1 "R" V 2784 7000 50  0000 C CNN
+F 2 "" V 2830 7000 50  0001 C CNN
+F 3 "~" H 2900 7000 50  0001 C CNN
+	1    2900 7000
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:C C?
+U 1 1 5E61775C
+P 3200 7250
+F 0 "C?" H 3315 7296 50  0000 L CNN
+F 1 "C" H 3315 7205 50  0000 L CNN
+F 2 "" H 3238 7100 50  0001 C CNN
+F 3 "~" H 3200 7250 50  0001 C CNN
+	1    3200 7250
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2600 6900 2600 7000
+Wire Wire Line
+	2600 7000 2750 7000
+Connection ~ 2600 7000
+Wire Wire Line
+	2600 7000 2600 7100
+Wire Wire Line
+	3050 7000 3200 7000
+Wire Wire Line
+	3200 7000 3200 7100
+$Comp
+L power:GND #PWR?
+U 1 1 5E617768
+P 2600 7500
+F 0 "#PWR?" H 2600 7250 50  0001 C CNN
+F 1 "GND" H 2605 7327 50  0000 C CNN
+F 2 "" H 2600 7500 50  0001 C CNN
+F 3 "" H 2600 7500 50  0001 C CNN
+	1    2600 7500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2600 7400 2600 7500
+$Comp
+L power:GND #PWR?
+U 1 1 5E61776F
+P 3200 7500
+F 0 "#PWR?" H 3200 7250 50  0001 C CNN
+F 1 "GND" H 3205 7327 50  0000 C CNN
+F 2 "" H 3200 7500 50  0001 C CNN
+F 3 "" H 3200 7500 50  0001 C CNN
+	1    3200 7500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3200 7400 3200 7500
+Wire Wire Line
+	3200 7000 3400 7000
+Connection ~ 3200 7000
+Wire Wire Line
+	2600 6600 2600 6500
+$Comp
+L Device:R R?
+U 1 1 5E61BA46
+P 2600 5150
+F 0 "R?" H 2670 5196 50  0000 L CNN
+F 1 "R" H 2670 5105 50  0000 L CNN
+F 2 "" V 2530 5150 50  0001 C CNN
+F 3 "~" H 2600 5150 50  0001 C CNN
+	1    2600 5150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 5E61BA4C
+P 2600 5650
+F 0 "R?" H 2670 5696 50  0000 L CNN
+F 1 "R" H 2670 5605 50  0000 L CNN
+F 2 "" V 2530 5650 50  0001 C CNN
+F 3 "~" H 2600 5650 50  0001 C CNN
+	1    2600 5650
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 5E61BA52
+P 2900 5400
+F 0 "R?" V 2693 5400 50  0000 C CNN
+F 1 "R" V 2784 5400 50  0000 C CNN
+F 2 "" V 2830 5400 50  0001 C CNN
+F 3 "~" H 2900 5400 50  0001 C CNN
+	1    2900 5400
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:C C?
+U 1 1 5E61BA58
+P 3200 5650
+F 0 "C?" H 3315 5696 50  0000 L CNN
+F 1 "C" H 3315 5605 50  0000 L CNN
+F 2 "" H 3238 5500 50  0001 C CNN
+F 3 "~" H 3200 5650 50  0001 C CNN
+	1    3200 5650
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2600 5300 2600 5400
+Wire Wire Line
+	2600 5400 2750 5400
+Connection ~ 2600 5400
+Wire Wire Line
+	2600 5400 2600 5500
+Wire Wire Line
+	3050 5400 3200 5400
+Wire Wire Line
+	3200 5400 3200 5500
+$Comp
+L power:GND #PWR?
+U 1 1 5E61BA64
+P 2600 5900
+F 0 "#PWR?" H 2600 5650 50  0001 C CNN
+F 1 "GND" H 2605 5727 50  0000 C CNN
+F 2 "" H 2600 5900 50  0001 C CNN
+F 3 "" H 2600 5900 50  0001 C CNN
+	1    2600 5900
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2600 5800 2600 5900
+$Comp
+L power:GND #PWR?
+U 1 1 5E61BA6B
+P 3200 5900
+F 0 "#PWR?" H 3200 5650 50  0001 C CNN
+F 1 "GND" H 3205 5727 50  0000 C CNN
+F 2 "" H 3200 5900 50  0001 C CNN
+F 3 "" H 3200 5900 50  0001 C CNN
+	1    3200 5900
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3200 5800 3200 5900
+Wire Wire Line
+	3200 5400 3400 5400
+Connection ~ 3200 5400
+Wire Wire Line
+	2600 5000 2600 4900
+Text GLabel 1400 4900 1    50   Input ~ 0
+PhaseA
+Text GLabel 2600 4900 1    50   Input ~ 0
+PhaseB
+Text GLabel 1400 6500 1    50   Input ~ 0
+PhaseC
+Text GLabel 2600 6500 1    50   Input ~ 0
+PhaseD
+Text GLabel 2200 5400 2    50   Output ~ 0
+ADC-A
+Text GLabel 3400 5400 2    50   Output ~ 0
+ADC-B
+Text GLabel 2200 7000 2    50   Output ~ 0
+ADC-C
+Text GLabel 3400 7000 2    50   Output ~ 0
+ADC-D
 $EndSCHEMATC

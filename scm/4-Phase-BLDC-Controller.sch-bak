@@ -71,45 +71,45 @@ $EndComp
 $Comp
 L Transistor_FET:BUZ11 Q?
 U 1 1 5E5367AB
-P 2300 2650
-F 0 "Q?" H 2505 2696 50  0000 L CNN
-F 1 "BUZ11" H 2505 2605 50  0000 L CNN
-F 2 "Package_TO_SOT_THT:TO-220-3_Vertical" H 2550 2575 50  0001 L CIN
-F 3 "http://www.fairchildsemi.com/ds/BU/BUZ11.pdf" H 2300 2650 50  0001 L CNN
-	1    2300 2650
+P 2300 2900
+F 0 "Q?" H 2505 2946 50  0000 L CNN
+F 1 "BUZ11" H 2505 2855 50  0000 L CNN
+F 2 "Package_TO_SOT_THT:TO-220-3_Vertical" H 2550 2825 50  0001 L CIN
+F 3 "http://www.fairchildsemi.com/ds/BU/BUZ11.pdf" H 2300 2900 50  0001 L CNN
+	1    2300 2900
 	1    0    0    -1  
 $EndComp
 $Comp
 L Transistor_FET:BUZ11 Q?
 U 1 1 5E536F03
-P 2300 3200
-F 0 "Q?" H 2505 3246 50  0000 L CNN
-F 1 "BUZ11" H 2505 3155 50  0000 L CNN
-F 2 "Package_TO_SOT_THT:TO-220-3_Vertical" H 2550 3125 50  0001 L CIN
-F 3 "http://www.fairchildsemi.com/ds/BU/BUZ11.pdf" H 2300 3200 50  0001 L CNN
-	1    2300 3200
+P 2300 3450
+F 0 "Q?" H 2505 3496 50  0000 L CNN
+F 1 "BUZ11" H 2505 3405 50  0000 L CNN
+F 2 "Package_TO_SOT_THT:TO-220-3_Vertical" H 2550 3375 50  0001 L CIN
+F 3 "http://www.fairchildsemi.com/ds/BU/BUZ11.pdf" H 2300 3450 50  0001 L CNN
+	1    2300 3450
 	1    0    0    -1  
 $EndComp
 $Comp
 L Transistor_FET:BUZ11 Q?
 U 1 1 5E537BFA
-P 3700 2650
-F 0 "Q?" H 3905 2696 50  0000 L CNN
-F 1 "BUZ11" H 3905 2605 50  0000 L CNN
-F 2 "Package_TO_SOT_THT:TO-220-3_Vertical" H 3950 2575 50  0001 L CIN
-F 3 "http://www.fairchildsemi.com/ds/BU/BUZ11.pdf" H 3700 2650 50  0001 L CNN
-	1    3700 2650
+P 3700 2900
+F 0 "Q?" H 3905 2946 50  0000 L CNN
+F 1 "BUZ11" H 3905 2855 50  0000 L CNN
+F 2 "Package_TO_SOT_THT:TO-220-3_Vertical" H 3950 2825 50  0001 L CIN
+F 3 "http://www.fairchildsemi.com/ds/BU/BUZ11.pdf" H 3700 2900 50  0001 L CNN
+	1    3700 2900
 	1    0    0    -1  
 $EndComp
 $Comp
 L Transistor_FET:BUZ11 Q?
 U 1 1 5E5383BB
-P 3700 3200
-F 0 "Q?" H 3905 3246 50  0000 L CNN
-F 1 "BUZ11" H 3905 3155 50  0000 L CNN
-F 2 "Package_TO_SOT_THT:TO-220-3_Vertical" H 3950 3125 50  0001 L CIN
-F 3 "http://www.fairchildsemi.com/ds/BU/BUZ11.pdf" H 3700 3200 50  0001 L CNN
-	1    3700 3200
+P 3700 3450
+F 0 "Q?" H 3905 3496 50  0000 L CNN
+F 1 "BUZ11" H 3905 3405 50  0000 L CNN
+F 2 "Package_TO_SOT_THT:TO-220-3_Vertical" H 3950 3375 50  0001 L CIN
+F 3 "http://www.fairchildsemi.com/ds/BU/BUZ11.pdf" H 3700 3450 50  0001 L CNN
+	1    3700 3450
 	1    0    0    -1  
 $EndComp
 $EndSCHEMATC
